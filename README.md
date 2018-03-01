@@ -1,3 +1,3 @@
-#Learning-Machine-Learning
+# Machine-Learning-Recipes
 
-My learning repository about Machine Learning :)
+## My learning repository about Machine Learning :)
